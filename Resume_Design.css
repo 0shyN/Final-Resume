@@ -1,0 +1,133 @@
+.content {
+    display: none;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #fff;
+    }
+    .content.active{
+        display: block;
+    }
+ body {
+    background-image: url("/Users/joshuanoveras/Desktop/SCHOOL WORKS/CC1/Noveras_Joshua-My_Resume/_ (2) copy.jpeg");
+        background-size:cover;
+        margin-left: 50px; 
+    }
+    h1 {
+        background-color: cadetblue;
+        font-size: 40px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top:20px;
+        margin-left:150px;
+        padding:10px;  
+        
+    }
+    h2 {
+        background-color: cadetblue;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 40px;
+    }
+    h3{
+        font-size:33px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color:rgb(119, 175, 177);
+        text-align: center;
+        color:rgb(23, 23, 23);
+    }
+
+    p {
+        font-family:fantasy;
+        font-size:25px;
+        margin-right: 500px;
+        margin-top:20px;
+        text-align:center;
+        }
+    img {
+        border: solid 5px rgb(56, 57, 57);
+        float:right;
+        max-width: 320px;
+        max-height: 320px;
+        margin-right: 95px;
+        margin-top:20px;
+        position: relative;
+        }
+    .mix_ing{
+        padding:10px;
+        margin-right: 30px;
+    }
+    .click{
+        size: 100px;
+        float:left;
+        padding: 10px 20px;
+        margin-top:35px;
+        font-size: 20px;
+        font-family: cursive;
+        text-align: center;
+        text-decoration: none;
+        background-color: rgb(106, 99, 116);
+        color: #fff;
+        border: 2px solid rgb(110, 213, 233);
+        border-radius: 5px;
+        transition: background-color 0.3s, color 0.3s;
+    }
+    .buttons{
+        size: 100px;
+        padding: 10px 20px;
+        margin-top:35px;
+        font-size: 20px;
+        text-align: center;
+        justify-content: center;
+        background-color: rgb(71, 61, 85);
+        color: #fff;
+        border: 2px solid rgb(145, 140, 223);
+    }
+    button:hover{
+        background-color:darkgray;
+        color:black
+    } 
+    .but1{
+        font-size: 20px;
+        font-family: cursive;
+        background-color: rgb(106, 99, 116);
+        border: 2px solid rgb(110, 213, 233);
+        color: #fff;
+    }
+    .but2{
+        font-size: 20px;
+        font-family: cursive;
+        background-color: rgb(106, 99, 116);
+        border: 2px solid rgb(110, 213, 233);
+        color: #fff;
+    }
+    .but3{
+        font-size: 20px;
+        font-family: cursive;
+        background-color: rgb(106, 99, 116);
+        border: 2px solid rgb(110, 213, 233);
+        color: #fff;
+    }
+    .but4{
+        font-size: 20px;
+        font-family: cursive;
+        background-color: rgb(106, 99, 116);
+        border: 2px solid rgb(110, 213, 233);
+        color: #fff;
+    }
+    .but5{
+        font-size: 20px;
+        font-family: cursive;
+        background-color: rgb(106, 99, 116);
+        border: 2px solid rgb(110, 213, 233);
+        color: #fff;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        transition: background-color 0.3s ease-in-out;
+    }
+    
+    
+    .dark-mode {
+        background-image: url("/Users/joshuanoveras/Desktop/SCHOOL WORKS/CC1/Noveras_Joshua-My_Resume/Snow Night landscape in moonlight.jpeg"); 
+        color:whitesmoke;
+
+    }
